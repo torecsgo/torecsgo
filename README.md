@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | NodeJS | Go
+- 💻 &nbsp; Python | C++ | NodeJS | Go
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🔧 &nbsp; Visual Studio Code | Git
 
