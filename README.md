@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning more programming languages.
 - 🤔 &nbsp; Exploring new technologies and developing software.
-- 🎓 &nbsp; Studying Microcomputer Systems and Networks.
+- 🎓 &nbsp; Studying Software Development.
 - 💼 &nbsp; back-end developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
 
@@ -13,9 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | NodeJS | Go
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
-- 🔧 &nbsp; Visual Studio Code | Git
+- 💻 &nbsp; Python | C# | NodeJS
+- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🔧 &nbsp; Visual Studio | Git
 
 
 <br>
