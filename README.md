@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>  
 
-- 💻 &nbsp; **Languages:** Python | C# | JavaScript (Node.js)  
+- 💻 &nbsp; **Languages:** Python | C# | Java | JavaScript (NodeJS)
 - 📊 &nbsp; **AI & Data Science:** Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch  
 - 📜 &nbsp; **Databases:** SQL | NoSQL  
 - ⚙️ &nbsp; **Version Control:** Git | GitHub  
